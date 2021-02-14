@@ -28,7 +28,7 @@
   "VISIT_DESCRIPTION": "Viziteaza insula cuiva care nu o are blocata.",
   "HE_DO_NOT_HAVE_AN_ISLAND": "{name} {RED}nu are o insula!",
   "VISITING_ISLAND": "{GREEN}Acum vizitezi insula lui {WHITE}{name}{GREEN}!",
-  "HIS_ISLAND_IS_LOCKED": "Insula lui {name}{YELLOW} este blocata! :(",
+  "HIS_ISLAND_IS_LOCKED": "Insula lui {name}{YELLOW} este blocata! :((",
   "LEAVE_USAGE": "Usage: /is leave",
   "LEAVE_DESCRIPTION": "Paraseste insula ta curenta.",
   "FOUNDER_CANNOT_LEAVE": "{YELLOW}The founder can't leave the island!\n{YELLOW}If you want to leave your island, {RED}you'll have to disband it",
